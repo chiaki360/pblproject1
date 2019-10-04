@@ -25,6 +25,7 @@ class ViewController: UITableViewController {
             }
         }
         print(pictures)
+        
     }
 
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
@@ -38,4 +39,7 @@ class ViewController: UITableViewController {
     }
 
 }
+
+
+
 

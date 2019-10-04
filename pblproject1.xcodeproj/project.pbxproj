@@ -24,6 +24,7 @@
 		721EF1D3234468B6001AFA7D /* nssl0033.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 721EF1D2234468B6001AFA7D /* nssl0033.jpg */; };
 		721EF1D6234468E0001AFA7D /* nssl0034.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 721EF1D4234468E0001AFA7D /* nssl0034.jpg */; };
 		721EF1D7234468E0001AFA7D /* nssl0041.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 721EF1D5234468E0001AFA7D /* nssl0041.jpg */; };
+		F03B02CB23470536000C637C /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F03B02CA23470536000C637C /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +68,7 @@
 		721EF1D2234468B6001AFA7D /* nssl0033.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0033.jpg; sourceTree = "<group>"; };
 		721EF1D4234468E0001AFA7D /* nssl0034.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0034.jpg; sourceTree = "<group>"; };
 		721EF1D5234468E0001AFA7D /* nssl0041.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0041.jpg; sourceTree = "<group>"; };
+		F03B02CA23470536000C637C /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +132,7 @@
 				721EF1A42344605D001AFA7D /* AppDelegate.swift */,
 				721EF1A62344605D001AFA7D /* ViewController.swift */,
 				721EF1A82344605D001AFA7D /* Main.storyboard */,
+				F03B02CA23470536000C637C /* DetailViewController.swift */,
 				721EF1AB2344605E001AFA7D /* Assets.xcassets */,
 				721EF1AD2344605E001AFA7D /* LaunchScreen.storyboard */,
 				721EF1B02344605E001AFA7D /* Info.plist */,
@@ -296,6 +299,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F03B02CB23470536000C637C /* DetailViewController.swift in Sources */,
 				721EF1A72344605D001AFA7D /* ViewController.swift in Sources */,
 				721EF1A52344605D001AFA7D /* AppDelegate.swift in Sources */,
 			);
