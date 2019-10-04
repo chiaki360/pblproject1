@@ -2,6 +2,27 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:pblproject1.xcodeproj">
+      location = "group:nssl0042.jpg">
+   </FileRef>
+   <FileRef
+      location = "group:nssl0043.jpg">
+   </FileRef>
+   <FileRef
+      location = "group:nssl0045.jpg">
+   </FileRef>
+   <FileRef
+      location = "group:nssl0046.jpg">
+   </FileRef>
+   <FileRef
+      location = "group:nssl0049.jpg">
+   </FileRef>
+   <FileRef
+      location = "group:nssl0051.jpg">
+   </FileRef>
+   <FileRef
+      location = "group:nssl0091.jpg">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>
