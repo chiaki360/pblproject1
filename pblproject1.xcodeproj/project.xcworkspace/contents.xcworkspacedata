@@ -2,6 +2,15 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:nssl0033.jpg">
+   </FileRef>
+   <FileRef
+      location = "group:nssl0034.jpg">
+   </FileRef>
+   <FileRef
+      location = "group:nssl0041.jpg">
+   </FileRef>
+   <FileRef
       location = "group:nssl0042.jpg">
    </FileRef>
    <FileRef

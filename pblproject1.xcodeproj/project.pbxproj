@@ -14,9 +14,6 @@
 		721EF1AF2344605E001AFA7D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 721EF1AD2344605E001AFA7D /* LaunchScreen.storyboard */; };
 		721EF1BA2344605E001AFA7D /* pblproject1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 721EF1B92344605E001AFA7D /* pblproject1Tests.swift */; };
 		721EF1C52344605E001AFA7D /* pblproject1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 721EF1C42344605E001AFA7D /* pblproject1UITests.swift */; };
-		721EF1D3234468B6001AFA7D /* nssl0033.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 721EF1D2234468B6001AFA7D /* nssl0033.jpg */; };
-		721EF1D6234468E0001AFA7D /* nssl0034.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 721EF1D4234468E0001AFA7D /* nssl0034.jpg */; };
-		721EF1D7234468E0001AFA7D /* nssl0041.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 721EF1D5234468E0001AFA7D /* nssl0041.jpg */; };
 		F03B02CB23470536000C637C /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F03B02CA23470536000C637C /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -38,13 +35,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0939399D23470CEE009B4364 /* nssl0043.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = nssl0043.jpg; path = pblproject1.xcodeproj/nssl0043.jpg; sourceTree = "<group>"; };
-		0939399E23470CEE009B4364 /* nssl0049.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = nssl0049.jpg; path = pblproject1.xcodeproj/nssl0049.jpg; sourceTree = "<group>"; };
-		0939399F23470CEE009B4364 /* nssl0042.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = nssl0042.jpg; path = pblproject1.xcodeproj/nssl0042.jpg; sourceTree = "<group>"; };
-		093939A023470CEE009B4364 /* nssl0046.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = nssl0046.jpg; path = pblproject1.xcodeproj/nssl0046.jpg; sourceTree = "<group>"; };
-		093939A123470CEF009B4364 /* nssl0091.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = nssl0091.jpg; path = pblproject1.xcodeproj/nssl0091.jpg; sourceTree = "<group>"; };
-		093939A223470CEF009B4364 /* nssl0045.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = nssl0045.jpg; path = pblproject1.xcodeproj/nssl0045.jpg; sourceTree = "<group>"; };
-		093939A323470CEF009B4364 /* nssl0051.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = nssl0051.jpg; path = pblproject1.xcodeproj/nssl0051.jpg; sourceTree = "<group>"; };
 		721EF1A12344605D001AFA7D /* pblproject1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pblproject1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		721EF1A42344605D001AFA7D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		721EF1A62344605D001AFA7D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,9 +48,6 @@
 		721EF1C02344605E001AFA7D /* pblproject1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pblproject1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		721EF1C42344605E001AFA7D /* pblproject1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pblproject1UITests.swift; sourceTree = "<group>"; };
 		721EF1C62344605E001AFA7D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		721EF1D2234468B6001AFA7D /* nssl0033.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0033.jpg; sourceTree = "<group>"; };
-		721EF1D4234468E0001AFA7D /* nssl0034.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0034.jpg; sourceTree = "<group>"; };
-		721EF1D5234468E0001AFA7D /* nssl0041.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0041.jpg; sourceTree = "<group>"; };
 		F03B02CA23470536000C637C /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -92,16 +79,6 @@
 		721EF1982344605D001AFA7D = {
 			isa = PBXGroup;
 			children = (
-				0939399F23470CEE009B4364 /* nssl0042.jpg */,
-				0939399D23470CEE009B4364 /* nssl0043.jpg */,
-				093939A223470CEF009B4364 /* nssl0045.jpg */,
-				093939A023470CEE009B4364 /* nssl0046.jpg */,
-				0939399E23470CEE009B4364 /* nssl0049.jpg */,
-				093939A323470CEF009B4364 /* nssl0051.jpg */,
-				093939A123470CEF009B4364 /* nssl0091.jpg */,
-				721EF1D4234468E0001AFA7D /* nssl0034.jpg */,
-				721EF1D5234468E0001AFA7D /* nssl0041.jpg */,
-				721EF1D2234468B6001AFA7D /* nssl0033.jpg */,
 				721EF1A32344605D001AFA7D /* pblproject1 */,
 				721EF1B82344605E001AFA7D /* pblproject1Tests */,
 				721EF1C32344605E001AFA7D /* pblproject1UITests */,
@@ -255,11 +232,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				721EF1D6234468E0001AFA7D /* nssl0034.jpg in Resources */,
 				721EF1AF2344605E001AFA7D /* LaunchScreen.storyboard in Resources */,
-				721EF1D3234468B6001AFA7D /* nssl0033.jpg in Resources */,
 				721EF1AC2344605E001AFA7D /* Assets.xcassets in Resources */,
-				721EF1D7234468E0001AFA7D /* nssl0041.jpg in Resources */,
 				721EF1AA2344605D001AFA7D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
